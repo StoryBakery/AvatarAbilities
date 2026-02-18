@@ -1,0 +1,10 @@
+{
+    "name": "AvatarAbilities",
+    "tree": {
+        "$className": "Folder",
+        "src": {
+            "$className": "Folder",
+            "$path": "src"
+        }
+    }
+}
